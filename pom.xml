@@ -8,5 +8,6 @@
   <modules>
   	<module>park-common</module>
     <module>park-service</module>
+    <module>park-web</module>
   </modules>
 </project>
